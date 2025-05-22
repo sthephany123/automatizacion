@@ -1,0 +1,1 @@
+Contenido simulado para src/main/resources/templates
